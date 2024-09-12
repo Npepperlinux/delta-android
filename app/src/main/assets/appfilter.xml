@@ -5997,7 +5997,6 @@
 	<item component="ComponentInfo{com.markveys.dionera.simplr/com.markveys.dionera.simplr.MainActivity}" drawable="simplr" />
 	<item component="ComponentInfo{com.marmalade.monopoly/com.google.firebase.MessagingUnityPlayerActivity}" drawable="monopoly" />
 	<item component="ComponentInfo{com.marmalade.monopoly/com.unity3d.player.UnityPlayerActivity}" drawable="monopoly" />
-	<item component="ComponentInfo{com.marmalade.tickettoride/com.unity3d.player.UnityPlayerActivity}" drawable="ticket_to_tide" />
 	<item component="ComponentInfo{com.marmalade.tickettoride/com.unity3d.player.UnityPlayerActivity}" drawable="ticket_to_ride" />
 <item component="ComponentInfo{com.marotidev.Overmorrow/com.example.overmorrow.MainActivity}" drawable="overmorrow" />
 	<item component="ComponentInfo{com.marrow/com.marrow.ui.activities.onboarding.splash.SplashActivity}" drawable="marrow" />
