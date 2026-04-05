@@ -5,3 +5,13 @@
 # examples:
 # https://github.com/Delta-Icons/android/blob/master/CONTRIBUTING.md#examples
 #
+jr_east:
+  - jp.co.jreast/jp.co.jreast.jreastapp.commuter.launchscreen.LaunchScreenActivity
+newdays:
+  - jp.j_retail/com.lv.imanara.module.basic.OpeningActivity
+view_card:
+  - jp.co.viewcard.viewcardapp.android/jp.co.viewcard.viewcardapp.ui.MainActivity
+welcia:
+  - jp.co.welcia_yakkyoku.tapps/com.locationvalue.ma2.app.SplashActivity
+yodobashi_gold:
+  - jp.co.welcia_yakkyoku.tapps/com.locationvalue.ma2.app.SplashActivity
