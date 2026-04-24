@@ -89,3 +89,9 @@ asoview: com.asoview.app/com.asoview.app.ui.MainActivity
 ekitag: jp.co.jreast.ekitag/jp.co.jreast.ekitag.MainActivity
 
 goca: jp.co.watahan.app.watahangoca/jp.co.watahan.app.watahangoca.AppActivity
+
+jal: com.jalglobalwallet.jgw/com.jalglobalwallet.jgw.HandleAppLinksActivityDefault
+
+japan_airlines: jp.co.jal.dom/com.accenture.renewal.jal.app.MainActivity
+
+google_classroom: org.chromium.webapk.a16af3005d0d1f19b_v2/org.chromium.webapk.shell_apk.h2o.H2OOpaqueMainActivity
